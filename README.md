@@ -1,8 +1,8 @@
 # frontend-nanodegree feedreader
 
-To execute the application, run index.html in a browser. The 7 coded tests should all pass
+To execute the application, run index.html in a browser. From the 9 coded tests, only the 5th should fail
 
-All mandatory tests have been implemented. These tests include comments explaining the new code.
+All mandatory tests have been implemented and pass successfully. These tests include comments explaining the new code.
 
 
 ## Additional tests
