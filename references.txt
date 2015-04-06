@@ -1,0 +1,4 @@
+Websites visited during this project:
+
+Jasmine documentation: http://jasmine.github.io/2.2/introduction.html
+JQuery documentation: http://api.jquery.com/
